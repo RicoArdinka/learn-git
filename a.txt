@@ -1,4 +1,8 @@
 hello world
 ganti branch
 edit from github
+<<<<<<< HEAD
 iki dari lokal
+=======
+edit kedua dari github
+>>>>>>> 0ffa74df5725a919ec6022126123a9c5d56bf6fd
