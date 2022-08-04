@@ -1,2 +1,0 @@
-ini adalah tugas git sesi 2 
-mengupdate file ini
